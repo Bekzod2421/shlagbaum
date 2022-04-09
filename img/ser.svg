@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.97" height="25" viewBox="0 0 22.97 25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1080.03" y="229" width="22.97" height="25" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-opacity="0.17"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="ser.svg" class="cls-1" d="M1093.66,229a9.344,9.344,0,1,0,9.34,9.343A9.349,9.349,0,0,0,1093.66,229Zm0,2.874a6.469,6.469,0,1,0,6.47,6.469A6.472,6.472,0,0,0,1093.66,231.874ZM1089,244.068L1087.93,243a1.5,1.5,0,0,0-2.13,0l-5.35,5.345a1.513,1.513,0,0,0,0,2.138l1.07,1.069a1.515,1.515,0,0,0,2.14,0l5.34-5.345A1.513,1.513,0,0,0,1089,244.068Zm1.07,1.069-3.21-3.206-3.2,3.206,3.2,3.207Z" transform="translate(-1080.03 -229)"/>
+</svg>
